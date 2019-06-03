@@ -1,0 +1,13 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=true
+Icon[en_GB]=/home/rycUSERNAME/RaceYourCodeVIRTUAL/assets/piborglogo.png
+Name[en_GB]=Restore code
+Exec=bash /home/rycUSERNAME/RaceYourCodeVIRTUAL/scripts/restore_code.sh
+Comment[en_GB]=Restore the code in ~/RaceYourCodeVIRTUAL/code directory to its original form
+Name=Restore Code
+Comment=Restore the code in ~/RaceYourCodeVIRTUAL/code directory to its original form
+Icon=/home/rycUSERNAME/RaceYourCodeVIRTUAL/assets/piborglogo.png

@@ -1,0 +1,13 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Icon[en_GB]=/home/rycUSERNAME/RaceYourCodeVIRTUAL/assets/piborglogo.png
+Name[en_GB]=Edit code
+Exec=geany /home/rycUSERNAME/RaceYourCodeVIRTUAL/code/ThunderBorg.py /home/rycUSERNAME/RaceYourCodeVIRTUAL/code/SimulationImages.py /home/rycUSERNAME/RaceYourCodeVIRTUAL/code/SimulationFull.py /home/rycUSERNAME/RaceYourCodeVIRTUAL/code/Globals.py /home/rycUSERNAME/RaceYourCodeVIRTUAL/code/Settings.py /home/rycUSERNAME/RaceYourCodeVIRTUAL/code/Formula.py /home/rycUSERNAME/RaceYourCodeVIRTUAL/code/RaceCodeFunctions.py /home/rycUSERNAME/RaceYourCodeVIRTUAL/code/ImageProcessor.py /home/rycUSERNAME/RaceYourCodeVIRTUAL/code/Race.py
+Comment[en_GB]=Edit the Race Your Code VIRTUAL programs that runs on the virtual robot.
+Name=Edit code
+Comment=Edit the Race Your Code VIRTUAL programs that runs on the virtual robot.
+Icon=/home/rycUSERNAME/RaceYourCodeVIRTUAL/assets/piborglogo.png

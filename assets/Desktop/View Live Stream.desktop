@@ -1,0 +1,13 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=true
+Icon[en_GB]=/home/rycUSERNAME/RaceYourCodeVIRTUAL/assets/piborglogo.png
+Name[en_GB]=View live stream
+Exec=firefox https://twitch.tv/raceyourcode https://www.youtube.com/user/FreeburnRobotics/feed?activity_view=6
+Comment[en_GB]=View the live stream in a browser
+Name=View live stream
+Comment=View the live stream in a browser
+Icon=/home/rycUSERNAME/RaceYourCodeVIRTUAL/assets/piborglogo.png

@@ -1,0 +1,13 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=true
+Icon[en_GB]=/home/rycUSERNAME/RaceYourCodeVIRTUAL/assets/piborglogo.png
+Name[en_GB]=Upload code to FTP server
+Exec=bash /home/rycUSERNAME/RaceYourCodeVIRTUAL/scripts/ftp_upload.sh
+Comment[en_GB]=Upload the Race Your Code VIRTUAL programs that run on the virtual robot to the Freeburn Robotics FTP server.
+Name=Upload code to FTP server
+Comment=Upload the Race Your Code VIRTUAL programs that run on the virtual robot to the Freeburn Robotics FTP server.
+Icon=/home/rycUSERNAME/RaceYourCodeVIRTUAL/assets/piborglogo.png
